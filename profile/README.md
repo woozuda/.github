@@ -40,6 +40,8 @@ MZ 세대는 블로그를 통해 일기를 작성하는 경향이 있습니다. 
   </tr>
 </table>
 
+<br>
+
 ## 🛠️ 기술스택
 
 ### 💻 프론트
@@ -123,7 +125,7 @@ MZ 세대는 블로그를 통해 일기를 작성하는 경향이 있습니다. 
 
 #### 🔨ERD 및 아키텍쳐
 <div>
-  <img src="https://github.com/user-attachments/assets/3dd51a4f-434d-41e4-b618-7adcecd642ab" width="400">
+  <img src="https://github.com/user-attachments/assets/3dd51a4f-434d-41e4-b618-7adcecd642ab" width="300">
   <img src="https://github.com/user-attachments/assets/67fe4700-f46b-4350-82b0-372a84178743" width="500">
 
 </div>
@@ -144,7 +146,6 @@ MZ 세대는 블로그를 통해 일기를 작성하는 경향이 있습니다. 
 - 메인 페이지에서 다이어리가 없을 경우 다이어리 생성 가능
 (다이어기가 있을 경우, 생성된 다이어리와 오늘의 일기 질문을 확인할 수 있음)
 </details>
-
 <details>
 <summary>🏷️ 다이어리 생성 및 일기</summary>
 <img src="https://github.com/user-attachments/assets/738e5c8a-3bcc-49d3-8dcb-44813ea30d40" width="200">
