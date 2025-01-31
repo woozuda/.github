@@ -132,6 +132,13 @@ MZ 세대는 블로그를 통해 일기를 작성하는 경향이 있습니다. 
 
 <br>
 
+## 🎥 시연영상
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/0ba4cf1f-a521-4953-af68-c107413cef27" width="300">
+    <img src="https://github.com/user-attachments/assets/7ca6474d-df8f-4a11-98bc-5e6988880261" width="300">
+</div>
+<br>
+
 ## ⭐️ 주요기능
 
 <details>
