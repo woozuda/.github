@@ -57,8 +57,8 @@ MZ 세대는 블로그를 통해 일기를 작성하는 경향이 있습니다. 
 
 #### 🔨  상태관리
 <div>
-  <img src="https://img.shields.io/badge/Tanstack Query-06B6D4?style=flat-square&logo=Tanstack Query&logoColor=white">
-  <img src="https://img.shields.io/badge/Zustand-06B6D4?style=flat-square&logo=Zustand&logoColor=white">
+  <img src="https://img.shields.io/badge/Tanstack Query-FF6719?style=flat-square&logo=Tanstack Query&logoColor=white">
+  <img src="https://img.shields.io/badge/Zustand-8B4513?style=flat-square&logo=Zustand&logoColor=white">
   <img src="https://img.shields.io/badge/Context API-06B6D4?style=flat-square&logo=Context API&logoColor=white">
 </div>
 
